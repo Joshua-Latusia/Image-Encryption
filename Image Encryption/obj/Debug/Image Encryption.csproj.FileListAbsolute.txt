@@ -1,0 +1,9 @@
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\bin\Debug\Image Encryption.exe.config
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\bin\Debug\Image Encryption.exe
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\bin\Debug\Image Encryption.pdb
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image Encryption.csprojResolveAssemblyReference.cache
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image_Encryption.Form1.resources
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image_Encryption.Properties.Resources.resources
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image Encryption.csproj.GenerateResource.Cache
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image Encryption.exe
+C:\Users\RMSjoshua\Google Drive\TI jaar 2\C# practise\Image Encryption\Image Encryption\obj\Debug\Image Encryption.pdb
